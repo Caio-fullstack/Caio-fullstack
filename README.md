@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Caio!;Sou+um+Desenvolvedor+Full-Stack;Sempre+aprendendo+e+criando...;Bem-vindo+ao+meu+perfil!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Caio!;Sou+um+Desenvolvedor+Full-Stack;Sempre+Aprendendo+e+Codando+e+Bebendo+Café...;Bem-vindo+ao+meu+perfil!)
 
-[![Estatísticas do GitHub de Caio](https://github-readme-stats.vercel.app/api?username=Caio-fullstack&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de Caio](https://github-readme-stats.vercel.app/api?username=Caio_Fernando&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Linguagens de Caio](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-fullstack&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens de Caio](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio_Fernandok&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Caio-fullstack/Caio-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
