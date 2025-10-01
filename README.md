@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Sempre+codando+e+bebendo+caf%C3%A9+%E2%98%95" alt="Animação de Digitando" />
+  
 [![Estatísticas do GitHub de Caio](https://github-readme-stats.vercel.app/api?username=Caio-fullstack&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
