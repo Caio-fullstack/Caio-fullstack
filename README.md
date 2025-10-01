@@ -1,5 +1,5 @@
 <div align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Caio!;Sou+um+Desenvolvedor+Full-Stack;Codando+e+Bebendo+Café...;Bem-vindo+ao+meu+perfil!)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Apaixonado+por+tecnologia+e+caf%C3%A9;Transformando+ideias+em+c%C3%B3digo;Sempre+em+busca+de+novos+desafios!" alt="Animação de Digitando" />
 
 [![Estatísticas do GitHub de Caio](https://github-readme-stats.vercel.app/api?username=Caio-fullstack&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
