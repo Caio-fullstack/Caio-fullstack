@@ -3,6 +3,7 @@
 [![Estatísticas do GitHub de Caio](https://github-readme-stats.vercel.app/api?username=Caio-fullstack&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Linguagens de Caio](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-fullstack&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,python,nodejs,git,github,vscode,mysql,php)
 
 <!--
 **Caio-fullstack/Caio-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
